@@ -1,2 +1,2 @@
 # SECOM_unsupervised-learning
-learning project for course Unsupervised ML.
+Project for course Unsupervised ML.
