@@ -1,2 +1,2 @@
-# HW_unsupervised-learning
-homework-unsupervised learning
+# SECOM_unsupervised-learning
+learning project for course Unsupervised ML.
